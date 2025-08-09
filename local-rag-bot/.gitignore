@@ -1,0 +1,9 @@
+__pycache__/
+myvenv/
+.env
+uploads/
+frontend/node_modules/
+node_modules/
+*.pyc
+*.swp
+npm-debug.log*
